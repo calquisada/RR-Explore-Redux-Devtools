@@ -33,4 +33,6 @@ function Counter() {
     )
 }
 
+// UI codes
+
 export default Counter
